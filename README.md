@@ -1,360 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+<!-- Main Heading -->
+<h1>Hi, I'm <span style="color: #4989F1;">Mohsin</span></h1>
+<h3>Full Stack Developer</h3>
 
-<br>
+<p>I build modern web applications with clean code, awesome UI, and a focus on performance.</p>
 
-<img
-src="https://api.dicebear.com/9.x/adventurer/svg?seed=Mohsin"
-width="170"
-alt="Mohsin"
-/>
+<!-- Technology Pill Badges -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-# MOHSIN
+<br/>
 
-### Full Stack Developer
-
-Building reliable, modern and scalable web applications with the MERN stack.
-
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Reliable+Web+Solutions;Turning+Ideas+Into+Scalable+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+Work"
-alt="Typing Animation"
-/>
-
-<br><br>
-
-<a href="https://github.com/mohsin935">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:mohsindevelops13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-</a>
-
-<br><br>
-
-<img
-src="https://komarev.com/ghpvc/?username=mohsin935&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"
-alt="Profile Views"
-/>
-
-<img
-src="https://img.shields.io/github/followers/mohsin935?label=Followers&style=flat-square&color=58A6FF"
-alt="Followers"
-/>
-
-</div>
-
-<br>
-
----
-
-## About
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Full Stack Developer
-
-I am a Full Stack Developer focused on building practical, reliable and responsive web applications.
-
-I work mainly with the MERN stack and enjoy building applications from frontend interfaces to backend APIs and database systems.
-
-My focus is on writing clean code, solving real-world problems and continuously improving my development skills.
-
-</td>
-
-<td width="45%" valign="top">
-
-```typescript
-const mohsin = {
-  title: "Full Stack Developer",
-
-  stack: [
-    "MongoDB",
-    "Express.js",
-    "React",
-    "Node.js",
-    "JavaScript"
-  ],
-
-  projects: [
-    "Currency Converter",
-    "Weather App"
-  ],
-
-  status: "Building and shipping MERN projects",
-
-  openTo: [
-    "Full-time",
-    "Freelance"
-  ]
-};
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Projects
-
-### Currency Converter
-
-A responsive currency conversion application built with HTML, CSS and JavaScript. The application uses live exchange-rate data to convert currencies.
-
-<div align="center">
-
-<a href="https://github.com/mohsin935/Currency-Converter-">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Currency-Converter-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
-  alt="Currency Converter"
-/>
-</a>
-
-</div>
-
-| Layer      | Technology            |
-| ---------- | --------------------- |
-| Frontend   | HTML, CSS, JavaScript |
-| Deployment | Netlify               |
-
-<div align="center">
-
-<a href="https://currencyconverter-mohsin.netlify.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
-</a>
-
-<a href="https://github.com/mohsin935/Currency-Converter-">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-</a>
-
-</div>
-
-<br>
-
-### Weather App
-
-A responsive weather application that fetches live weather information through a weather API and presents current conditions through a simple interface.
-
-<div align="center">
-
-<a href="https://github.com/mohsin935/Weather-app">
-<img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=mohsin935&repo=Weather-app&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"
-  alt="Weather App"
-/>
-</a>
-
-</div>
-
-| Layer      | Technology            |
-| ---------- | --------------------- |
-| Frontend   | HTML, CSS, JavaScript |
-| API        | Weather Data API      |
-| Deployment | Netlify               |
-
-<div align="center">
-
-<a href="https://mohsin-weatherapp.netlify.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
-</a>
-
-<a href="https://github.com/mohsin935/Weather-app">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-</a>
+<!-- Status and Social Links -->
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1b3a5c?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=1b3a5c&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## Technology Stack
+### About Me
 
-<div align="center">
+I'm a passionate **Full Stack Developer** with experience in building scalable web applications using the MERN stack. I love solving real-world problems, learning new technologies, and turning ideas into production-ready products.
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend Technologies">
-
-<br><br>
-
-### Backend and Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### Frontend
-
-React
-HTML5
-CSS3
-JavaScript
-
-</td>
-
-<td width="33%" align="center">
-
-### Backend
-
-Node.js
-Express.js
-REST APIs
-
-</td>
-
-<td width="33%" align="center">
-
-### Database
-
-MongoDB
-Database Design
-Data Management
-
-</td>
-</tr>
-</table>
+| Highlights | Core Strengths |
+| :--- | :--- |
+| **Clean Code** | Writing structured, maintainable, and readable code |
+| **Problem Solver** | Breaking complex logic into efficient engineering solutions |
+| **Fast Learner** | Rapidly adapting to new frameworks, libraries, and tools |
+| **Team Player** | Collaborating effectively in agile environments |
 
 ---
 
-## GitHub Statistics
+### Featured Projects
+
+#### Currency Converter
+> Real-time currency conversion application built with live exchange rates.
+
+| Tech Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Deployment** | Netlify |
+
+🔗 [Live Demo](https://currencyconverter-mohsin.netlify.app) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/mohsin935/Currency-Converter-)
+
+<br/>
+
+#### Weather App
+> Live weather forecast application providing real-time meteorological data.
+
+| Tech Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript |
+| **API Integration** | Weather Data API |
+| **Deployment** | Netlify |
+
+🔗 [Live Demo](https://mohsin-weatherapp.netlify.app) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/mohsin935/Weather-app)
+
+---
+
+### Tech Stack
+
+| Category | Technologies | Icons |
+| :--- | :--- | :--- |
+| **Languages** | JavaScript (ES6+) | ![Languages](https://skillicons.dev/icons?i=js) |
+| **Frontend** | React, HTML5, CSS3 | ![Frontend](https://skillicons.dev/icons?i=react,html,css) |
+| **Backend / Infra** | Node.js, Express.js, MongoDB | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb) |
+
+---
+
+### GitHub Stats
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github"
-width="49%"
-alt="GitHub Statistics"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&theme=nord&border_color=1b3a5c&title_color=1b3a5c&icon_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-width="49%"
-alt="Top Languages"
-/>
+<img src="https://streak-stats.demolab.com?user=mohsin935&theme=nord&border=1b3a5c&background=0D1117&stroke=1b3a5c&ring=1b3a5c&fire=1b3a5c&currStreakLabel=ffffff" width="70%"/>
 
-<br><br>
+</div>
 
-<img
-src="https://streak-stats.demolab.com?user=mohsin935&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-width="70%"
-alt="GitHub Streak"
-/>
+### Trophies
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mohsin935&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 </div>
 
 ---
 
-## Development Focus
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**01**
-
-Frontend Development
-
-</td>
-
-<td align="center" width="25%">
-
-**02**
-
-Backend Development
-
-</td>
-
-<td align="center" width="25%">
-
-**03**
-
-REST API Development
-
-</td>
-
-<td align="center" width="25%">
-
-**04**
-
-Database Applications
-
-</td>
-</tr>
-</table>
-
----
-
-## Development Approach
-
-```text
-Build
-  |
-  v
-Learn
-  |
-  v
-Improve
-  |
-  v
-Test
-  |
-  v
-Ship
-```
-
-I believe consistent practice and real-world projects are the best way to grow as a developer.
-
----
-
-## Currently Building
-
-```javascript
-const currentFocus = [
-  "Full Stack Web Applications",
-  "MERN Stack Projects",
-  "REST APIs",
-  "Responsive User Interfaces",
-  "Database-Driven Applications"
-];
-```
-
----
-
-## Connect
+### Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/mohsin935">
-<img src="https://img.shields.io/badge/GitHub-mohsin935-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+Open for new opportunities, collaborations, and exciting projects.
 
-<a href="mailto:mohsindevelops13@gmail.com">
-<img src="https://img.shields.io/badge/Email-mohsindevelops13%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
-</a>
+<br/>
 
-<br><br>
+[![Email](https://img.shields.io/badge/Email_Me-4989F1?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mohsindevelops13@gmail.com)
 
-Open to full-time opportunities, freelance work and development collaborations.
+<br/><br/>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
