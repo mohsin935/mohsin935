@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Main Heading -->
-<h1>Hi, I'm <span style="color: #4989F1;">Mohsin</span></h1>
-<h3>Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=180&section=header&text=Hi%2C%20I'm%20Mohsin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%"/>
 
-<p>I build modern web applications with clean code, awesome UI, and a focus on performance.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=20&pause=1200&color=4989F1&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Clean+Code+%7C+Modern+UI;Building+real-world+web+apps" alt="Typing animation"/>
 
-<!-- Technology Pill Badges -->
+<p><b>I build modern web applications with clean code, great UI, and a focus on performance.</b></p>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -14,96 +13,65 @@
 
 <br/>
 
-<!-- Status and Social Links -->
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1b3a5c?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=1b3a5c&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS&cacheSeconds=300)
 
 </div>
 
 ---
 
-### About Me
+### 👋 About Me
 
-I'm a passionate **Full Stack Developer** with experience in building scalable web applications using the MERN stack. I love solving real-world problems, learning new technologies, and turning ideas into production-ready products.
+I'm a passionate **Full Stack Developer** building scalable web applications with the MERN stack. I love solving real-world problems, learning new technologies, and turning ideas into production-ready products.
 
 | Highlights | Core Strengths |
 | :--- | :--- |
-| **Clean Code** | Writing structured, maintainable, and readable code |
-| **Problem Solver** | Breaking complex logic into efficient engineering solutions |
-| **Fast Learner** | Rapidly adapting to new frameworks, libraries, and tools |
-| **Team Player** | Collaborating effectively in agile environments |
+| **Clean Code** | Structured, maintainable, readable code |
+| **Problem Solver** | Breaking complex logic into efficient solutions |
+| **Fast Learner** | Quickly adapting to new frameworks and tools |
+| **Team Player** | Collaborating effectively in agile teams |
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-#### Currency Converter
-> Real-time currency conversion application built with live exchange rates.
-
-| Tech Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Deployment** | Netlify |
-
-🔗 [Live Demo](https://currencyconverter-mohsin.netlify.app) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/mohsin935/Currency-Converter-)
-
-<br/>
-
-#### Weather App
-> Live weather forecast application providing real-time meteorological data.
-
-| Tech Layer | Technologies |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript |
-| **API Integration** | Weather Data API |
-| **Deployment** | Netlify |
-
-🔗 [Live Demo](https://mohsin-weatherapp.netlify.app) &nbsp;|&nbsp; 💻 [Source Code](https://github.com/mohsin935/Weather-app)
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Currency Converter** | Real-time currency conversion with live exchange rates | HTML, CSS, JavaScript | [Live](https://currencyconverter-mohsin.netlify.app) · [Code](https://github.com/mohsin935/Currency-Converter-) |
+| **Weather App** | Live weather forecast with real-time data | HTML, CSS, JavaScript, Weather API | [Live](https://mohsin-weatherapp.netlify.app) · [Code](https://github.com/mohsin935/Weather-app) |
+| **Diet & Nutrition Tracker** | Landing page for a diet and nutrition tracking app | HTML, CSS, JavaScript | [Code](https://github.com/mohsin935/diet-nutrition-tracker) |
 
 ---
 
-### Tech Stack
-
-| Category | Technologies | Icons |
-| :--- | :--- | :--- |
-| **Languages** | JavaScript (ES6+) | ![Languages](https://skillicons.dev/icons?i=js) |
-| **Frontend** | React, HTML5, CSS3 | ![Frontend](https://skillicons.dev/icons?i=react,html,css) |
-| **Backend / Infra** | Node.js, Express.js, MongoDB | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb) |
-
----
-
-### GitHub Stats
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsin935&show_icons=true&theme=nord&border_color=1b3a5c&title_color=1b3a5c&icon_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin935&layout=compact&theme=nord&border_color=1b3a5c&title_color=1b3a5c&text_color=ffffff&bg_color=0d1117" width="48%"/>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,vscode" alt="Tech stack"/>
 
-<img src="https://streak-stats.demolab.com?user=mohsin935&theme=nord&border=1b3a5c&background=0D1117&stroke=1b3a5c&ring=1b3a5c&fire=1b3a5c&currStreakLabel=ffffff" width="70%"/>
-
-</div>
-
-### Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohsin935&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
 </div>
 
 ---
 
-### Let's Connect
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%"/>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
 
 Open for new opportunities, collaborations, and exciting projects.
 
-<br/>
-
 [![Email](https://img.shields.io/badge/Email_Me-4989F1?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mohsindevelops13@gmail.com)
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b3a5c&height=120&section=footer" width="100%"/>
 
 </div>
