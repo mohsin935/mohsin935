@@ -15,7 +15,6 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1b3a5c?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohsin935&color=1b3a5c&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/mohsin935?color=1b3a5c&style=for-the-badge&label=FOLLOWERS&cacheSeconds=300)
 
 </div>
 
@@ -49,16 +48,6 @@ I'm a passionate **Full Stack Developer** building scalable web applications wit
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,vscode" alt="Tech stack"/>
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="./assets/metrics.svg" alt="GitHub metrics" width="100%"/>
 
 </div>
 
